@@ -5,4 +5,4 @@ category: 域名
 title: Muniang.com<br>慕酿酒业
 description: |
 ---
-  一并出售[munaing.com](http://www.psdcovers.com/)<br>一并出售[munaing.com.cn](http://www.psdcovers.com/)
+  一并出售[muniang.com](http://www.psdcovers.com/)<br>一并出售[muniang.com.cn](http://www.psdcovers.com/)
