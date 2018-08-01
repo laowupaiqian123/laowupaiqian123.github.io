@@ -1,10 +1,8 @@
 ---
 layout: default
 img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+category: 域名
+title: Muniang.com<br>慕酿酒业
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  一并出售[munaing.com](http://www.psdcovers.com/)<br>一并出售[munaing.com.cn](http://www.psdcovers.com/)
