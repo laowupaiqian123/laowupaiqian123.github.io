@@ -471,7 +471,7 @@
 .fa-arrow-down:before {
   content: "\f063";
 }
-.fa-mail-forward:before,
+.fa-邮件-forward:before,
 .fa-share:before {
   content: "\f064";
 }
@@ -943,7 +943,7 @@
 .fa-circle:before {
   content: "\f111";
 }
-.fa-mail-reply:before,
+.fa-邮件-reply:before,
 .fa-reply:before {
   content: "\f112";
 }
@@ -983,7 +983,7 @@
 .fa-code:before {
   content: "\f121";
 }
-.fa-mail-reply-all:before,
+.fa-邮件-reply-all:before,
 .fa-reply-all:before {
   content: "\f122";
 }
