@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: 1106.jpg
 category: 域名
 title: 1106.org<br>1106
 description: |
