@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: 域名
-title: SGGR.com<br>SaGacious Gallant Robots
+title: SGGR.com<br>sagacious gallant robots
 description: |
 ---
   一并出售[sggr.com](http://join.deathtothestockphoto.com/)<br>一并出售[sggr.com.cn](http://join.deathtothestockphoto.com/)
