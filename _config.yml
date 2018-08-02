@@ -26,7 +26,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: 微信
-    url: https://twitter.com/SBootstrap
   - title: qq
     url: http://wpa.qq.com/msgrd?v=3&uin=863283750&site=qq&menu=yes
+ - title: 微信
+    url: https://twitter.com/SBootstrap
+
