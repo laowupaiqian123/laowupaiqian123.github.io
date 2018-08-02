@@ -1,8 +1,8 @@
 ---
 layout: default
-img: 1106.jpg
+img: lbs.jpg
 category: 域名
-title: NO.4<br>1106.org<br>1106
+title: 1106.org<br>1106
 description: |
 ---
   一并出售[1106.org](http://www.google.com/fonts)
