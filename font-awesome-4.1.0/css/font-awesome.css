@@ -1525,10 +1525,10 @@
 .fa-tencent-weibo:before {
   content: "\f1d5";
 }
-.fa-与qq同步#qqcom:before {
+.fa-微信#qqcom:before {
   content: "\f1d6";
 }
-.fa-与qq同步:before,
+.fa-微信:before,
 .fa-weixin:before {
   content: "\f1d7";
 }
