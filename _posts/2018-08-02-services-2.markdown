@@ -2,7 +2,7 @@
 layout: default
 img: wine.jpg
 category: 域名
-title: NO.2<br>Muniang.com<br>慕酿
+title: Muniang.com<br>慕酿
 description: |
 ---
   一并出售[muniang.com](http://www.psdcovers.com/)<br>一并出售[muniang.com.cn](http://www.psdcovers.com/)<br>一并出售[muniang.net](http://www.psdcovers.com/)
