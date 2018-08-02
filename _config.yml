@@ -27,7 +27,7 @@ permalink: pretty
 
 social:
   - title: qq
-    url: http://wpa.qq.com/msgrd?v=3&uin=863283750&site=qq&menu=yes
+    url: mqqwpa://im/chat?chat_type=wpa&uin=863283750&version=1&src_type=web
   - title: 微信
     url: https://www.1106.org/img/weixin.png
 
