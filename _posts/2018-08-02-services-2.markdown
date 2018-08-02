@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: wine.jpg
 category: 域名
 title: Muniang.com<br>慕酿
 description: |
