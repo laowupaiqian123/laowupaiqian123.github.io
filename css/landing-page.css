@@ -146,6 +146,8 @@ h6 {
     }
 
     ul.banner-social-buttons > li {
+        height:100px;
+        width:60px;
         display: block;
         margin-bottom: 20px;
         padding: 0;
