@@ -10,8 +10,8 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2018 www.1106.org'
-credits: '感谢<a href="http://startbootstrap.com/">Start Bootstrap</a>、<a href="https://pages.github.com/">GitHub Pages</a>、<a href="https://jekyllrb.com/">Jekyll</a>提供网页支持'
+copyright: '&copy; 2018 www.1106.org'
+credits: ''
 
 # ----------------------- #
 #    Jekyll & Plugins     #
