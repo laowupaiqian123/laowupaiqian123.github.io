@@ -5,4 +5,4 @@ category: 域名
 title: 1106.org<br>1106
 description: |
 ---
-  一并出售[1106.org](http://www.google.com/fonts)
+  一并出售[1106.org](https://www.1106.org)
