@@ -5,4 +5,4 @@ category: 域名
 title: SGGR.com<br>机器人
 description: |
 ---
-  一并出售[sggr.com](https://www.1106.org)<br>一并出售[sggr.com.cn](https://www.1106.org/)
+  一并出售[sggr.com](https://www.1106.org)<br>一并出售[sggr.cn](https://www.1106.org/)<br>一并出售[sggr.com.cn](https://www.1106.org/)
