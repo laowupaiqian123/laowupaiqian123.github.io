@@ -1,6 +1,6 @@
 ---
 layout: default
-img: robot.jpg
+img: sg.jpg
 category: 域名
 title: SGGR.com<br>
 description: |

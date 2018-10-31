@@ -1,6 +1,6 @@
 ---
 layout: default
-img: toys.jpg
+img: qi.jpg
 category: 域名
 title: QiQiaoLingLong.com<br>
 description: |
