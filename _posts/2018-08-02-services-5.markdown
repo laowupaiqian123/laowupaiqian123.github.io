@@ -2,7 +2,7 @@
 layout: default
 img: 11.jpg
 category: 域名
-title: 1106.org<br>
+title: 5、1106.org<br>
 description: |
 ---
   一并出售[1106.org](https://www.1106.org)

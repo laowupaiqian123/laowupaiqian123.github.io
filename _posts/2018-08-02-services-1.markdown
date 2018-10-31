@@ -2,7 +2,7 @@
 layout: default
 img: sg.jpg
 category: 域名
-title: SGGR.com<br>
+title: 1、SGGR.com<br>
 description: |
 ---
   一并出售[sggr.com](https://www.1106.org)<br>一并出售[sggr.cn](https://www.1106.org/)<br>一并出售[sggr.com.cn](https://www.1106.org/)<br>一并出售[sggr.net](https://www.1106.org/)
