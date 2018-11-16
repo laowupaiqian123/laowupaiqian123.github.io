@@ -2,7 +2,7 @@
 layout: default
 img: 11.jpg
 category: 域名
-title: 5、1106.org<br>
+title: 5、1106.org<br>注册时间2014年；到期时间2020年
 description: |
 ---
   一并出售[1106.org](https://www.1106.org)
