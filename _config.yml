@@ -3,14 +3,14 @@
 # ----------------------- #
 
 url: https://www.1106.org
-title: 1106.org
+title: XX劳务派遣
 email: your-email@domain.com
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: '&copy; 2018 www.1106.org'
+copyright: '&copy; 2018 XX劳务派遣'
 credits: ''
 
 # ----------------------- #
@@ -26,9 +26,5 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: qq
-    url: http://wpa.qq.com/msgrd?v=3&uin=863283750&site=qq&menu=yes&src_type=web
   - title: 微信
     url: https://www.1106.org/img/weixin.png
-  - title: 邮件
-    url: https://www.1106.org/addpages/email.html
