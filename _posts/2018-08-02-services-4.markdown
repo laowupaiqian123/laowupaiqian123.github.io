@@ -2,7 +2,7 @@
 layout: default
 img: gi.jpg
 category: 域名
-title: 4、Gitdure.com<br>注册时间2018年<br>到期时间2020年
+title: 4、工作地点：
 description: |
 ---
-  一并出售[gitdure.com](https://www.1106.org)<br>一并出售[gitdure.cn](https://www.1106.org)<br>一并出售[gitdure.com.cn](https://www.1106.org)<br>一并出售[gitdure.org](https://www.1106.org)
+ 

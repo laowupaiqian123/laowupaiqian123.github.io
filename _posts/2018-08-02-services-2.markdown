@@ -1,8 +1,8 @@
 ---
 layout: default
 img: mu.jpg
-category: 域名
-title: 2、Muniang.com<br>注册时间2013年<br>到期时间2020年
+category: 工作地点工作内容
+title: 2、工作地点：东莞
 description: |
 ---
-  一并出售[muniang.com](https://www.1106.org)<br>一并出售[muniang.com.cn](https://www.1106.org)<br>一并出售[muniang.net](https://www.1106.org/)
+  工作内容：

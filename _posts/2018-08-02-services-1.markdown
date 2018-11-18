@@ -1,8 +1,8 @@
 ---
 layout: default
 img: sg.jpg
-category: 域名
-title: 1、SGGR.com<br>注册时间2002年<br>到期时间2020年
+category: 工作内容与工作地点
+title: 1、工作地点：苏州
 description: |
 ---
-  一并出售[sggr.com](https://www.1106.org)<br>一并出售[sggr.com.cn](https://www.1106.org/)<br>一并出售[sggr.net](https://www.1106.org/)
+ 工作内容：
